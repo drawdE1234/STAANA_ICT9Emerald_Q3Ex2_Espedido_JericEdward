@@ -1,0 +1,8 @@
+ .body {
+             background-size: cover;
+             background-image: url('meme.jpg'); 
+              background-repeat: no-repeat;
+               background-position : bottom right;
+                background-attachment: fixed;
+            
+                    }

@@ -1,0 +1,11 @@
+       #login {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #f0f3f3;
+            padding: 50px;
+            border-radius: 10px;
+            width: 800px;
+
+                    }
